@@ -45,3 +45,10 @@ Estrutura básica do tsconfig.json :
     },
     "include": ["src/**/*"]
     }
+
+2-classes-herancas
+3-modulo-namespaces
+4-generics
+5-decorators
+6-manipulacao-erros
+7-async-await-promises
