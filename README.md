@@ -1,4 +1,4 @@
-# Typescript-Aula-21-08-2024
+# Typescript-exercicios-das-aulas-do-dia-21/08-e-28/08
 
 Conteudo com resolução de exercícios, passo a passo da configuração do typescript.
 
