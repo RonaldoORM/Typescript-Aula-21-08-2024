@@ -5,7 +5,6 @@ interface Produto {
     categoria: string;
 }
 
-
 type FormaPagamento = 'dinheiro' | 'cartão' | 'pix';
 
 
